@@ -96,9 +96,11 @@ The MQTT set-up has two parts: The Broker and the Integration
 3. Select Advanced options dropdown
 4. Click `Reboot System`
 
-It will take a few minutes to restart, but afterwards go to `Settings > System > Logs`
+It will take a few minutes to restart, but afterwards, check the logs.
 
 # Set-up COMPLETE!!!
+
+Navigate to `Settings > System > Logs`
 
 If the set-up was successful, your logs (receachable through the top right drop down) should look similar to the following:
 
