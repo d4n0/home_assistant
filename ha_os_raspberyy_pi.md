@@ -18,6 +18,6 @@ This guide shows how to install the Home Assistant Operating system using Raspbe
 1. Insert the SD card into your Raspberry Pi.
 2. Plug in an Ethernet cable that is connected to the network.
 3. Connect the power supply to start up the device.
-4. Wait a few minutes 
-In the browser of your desktop system [homeassistant.local:8123](url)
+4. After a few minutes, use the browser of your desktop system [homeassistant.local:8123](url)
     - Older Windows versions might need to access Home Assistant at `homeassistant:8123` or `http://X.X.X.X:8123`.
+5. Follow on screen instructions to complete setup of Home Assistant OS
