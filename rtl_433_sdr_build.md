@@ -73,6 +73,8 @@ protocol 40
 protocol 70
 convert si
 ```
+Note the outputs, frequency and protocols for later steps.
+
 ## **Configure MQTT**
 The MQTT set-up has two parts: The Broker and the Integration
 1. Configure Mosquitto MQTT Broker
