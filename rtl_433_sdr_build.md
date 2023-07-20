@@ -1,5 +1,6 @@
 # Overview
 This guide covers how to set up rtl_433 and MQTT to use an SDR dongle to sniff RF transmissions.
+- The build utilizes pbkhrv's [rtl_433-hass-addons](https://github.com/pbkhrv/rtl_433-hass-addons) that are based on merbanan's [rtl_4333](https://github.com/merbanan/rtl_433) project that uses RTL-SDR or SoapySDR.
 
 ## Steps
 1. Install rtl_433 add on
