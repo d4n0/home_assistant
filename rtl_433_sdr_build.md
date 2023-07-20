@@ -27,6 +27,7 @@ With the repository loaded, you should see a new list of items at the bottom of 
      NOTE: This will keep the add-on up-to-date and running
   2. Click `START`
   3. Modify `/config/rtl_433/rtl_433.conf.template` to control RF settings
+     
      For this build I used:
 ```
 #identifies device, required if using more than one SDR dongle
@@ -83,12 +84,12 @@ The MQTT set-up has two parts: The Broker and the Integration
     - Ensure the same three toggles are on here as well
     - `START` add-on
 2. Install/Configure MQTT Integration
-   - The integrations should appear automatically when you navigate to the integrations page.
+   - The integration should appear automatically when you navigate to the integrations page.
        a. Click `CONFIGURE`
        b. MQTT should zeroconf configure and pull necessary information from Mosquitto MQTT
-   - If zeroconf fails, add/search for MQTT from the integrations page.
+   - If `zeroconf` fails, add/search for MQTT from the integrations page.
        a. Click `INSTALL`
-       b. Fill out the Broker Options from the Mosquitto MQTT configuration
+       b. Fill out the Broker Options from the Mosquitto MQTT configuration page
 
 ## **Restart Home Assistant**
 1. From settings, click three dots
