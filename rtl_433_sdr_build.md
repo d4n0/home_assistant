@@ -44,6 +44,7 @@ report_meta protocol
 convert customary
 
 #outputs table of device results to the log
+#use output kv for a more user friendly output
 output json
 
 #specifies the frequency, can use more than one but then `hop_interval` in seconds is required
