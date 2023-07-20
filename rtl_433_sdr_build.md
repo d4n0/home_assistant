@@ -98,6 +98,8 @@ The MQTT set-up has two parts: The Broker and the Integration
 
 It will take a few minutes to restart, but afterwards go to `Settings > System > Logs`
 
+# Set-up COMPLETE!!!
+
 If the set-up was successful, your logs (receachable through the top right drop down) should look similar to the following:
 
 #### Home Assistant Core
