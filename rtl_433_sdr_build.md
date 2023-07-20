@@ -1,12 +1,11 @@
-Overview
+# Overview
 This guide covers how to set up rtl_433 and MQTT to use an SDR dongle to sniff RF transmissions.
 
-Activities
-Install rtl_433 add on
-Install Mosquitto MQTT Broker add on
-Install the MQTT integration
-Set up sensors
-Optional split configuration file set up
+## Steps
+1. Install rtl_433 add on
+2. Install Mosquitto MQTT Broker add on
+3. Install the MQTT integration
+
 INSTALL rtl_433 add on
 In Home Assistant
 
