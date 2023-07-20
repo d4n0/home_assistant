@@ -1,4 +1,4 @@
-# home_assistant
+# Home Assistant
 This is a collection of projects that make up my Home Assistant build.
 
 
