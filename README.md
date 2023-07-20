@@ -4,7 +4,7 @@ This is a collection of projects that make up my Home Assistant build.
 
 
 ## Alarm System Replacement
-This project takes existing [Honeywell 5816 Binary Sensors](https://brinkshome.com/help-center/articles/105-Honeywell-5816-Door-Window-Sensor-Guide) from previous security system and uses RTL-SDR to pass detection packets with MQTT to Home Assistant.
+This project takes existing [Honeywell 5800 Series Binary Sensors](https://brinkshome.com/help-center/articles/105-Honeywell-5816-Door-Window-Sensor-Guide) from previous security system and uses RTL-SDR to pass detection packets with MQTT to Home Assistant.
 
 ### Setup Pages
   - [Home Assistant on a Raspberry Pi](/ha_os_raspberry_pi.md)
