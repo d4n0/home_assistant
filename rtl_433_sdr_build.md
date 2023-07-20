@@ -118,7 +118,7 @@ s6-rc: info: service fix-attrs: starting
 s6-rc: info: service fix-attrs successfully started
 s6-rc: info: service legacy-cont-init: starting
 cont-init: info: running /etc/cont-init.d/mosquitto.sh
-[hh:mm:ss] INFO: Setting up user mqttuser
+[hh:mm:ss] INFO: Setting up user username
 [hh:mm:ss] INFO: SSL is not enabled
 cont-init: info: /etc/cont-init.d/mosquitto.sh exited 0
 cont-init: info: running /etc/cont-init.d/nginx.sh
