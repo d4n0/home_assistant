@@ -55,7 +55,7 @@ NOTE: Not all paramaters change and they are not always consistent between windo
 ## Test MQTT Listener (Optional)
 Since we already have the JSON data, this step would be to check that MQTT can pick up the sensor topic.
 If you set output to kv, you can use this to note the sensors around your house.
-  1. Go to MQTT integration
+  1. Navigate to MQTT integration
   2. Click `Configure`
   3. Add the topic you specified in `rtl_433.conf.template` (i.e., `homeassistant/events[/model][/id]`)
   4. Click `Start Listening`
